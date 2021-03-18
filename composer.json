@@ -1,7 +1,7 @@
 {
   "name": "dsh0105/recipe-scraper",
   "description": "A recipe scraping library.",
-  "homepage": "https://github.com/ssnepenthe/recipe-scraper",
+  "homepage": "https://github.com/dsh0105/recipe-scraper",
   "license": "GPL-2.0",
   "require": {
     "php": ">=7.0",
